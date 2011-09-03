@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" version="1.0">
+    <name>Twitter t.co Killer</name>
+    <description>Auto expand twitter t.co links</description>
+    <author href="http://banjuan.net/">沈觅仁</author>
+</widget>
